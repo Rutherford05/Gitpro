@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\682c39a3f8693fb928b640d9dd27f433\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\79377cc63eabb6152383d0c55ffec169\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ca4c9b28a05ed473c7b3ece5bc5211b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dc00027dd7b7170a35bb47339695496f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1507c914f1e8387d0b6e35683a12d52d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b1c9f4759f77828539c76a00cd0bb136\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\fe92197e006ae7b68c9d90913fea1b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c5d808d64c9711214e870e2c682f830b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12212e8cfe3c8b94bc883dca1ef7e553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ddcc2ccbef38004e36ffd913ef571fbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\69066fd50b18cbf182c459aecf3bf527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\646edf21556aee7f32469bf66d805511\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\f88c34a4ef55193151d0b34fefa413be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b50b853697ebbeb64b82a5b6b478569d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c240345b0f9753b5fa972d3c8d253a6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\e77a6a00c9a6ae34b3d9b204e4897a1f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ec1f5f86f9375bdb897762e6e0063e4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\a51fb5e60b205768fc357b8bfad745a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ab3b4da9a49f53e60704b1a6de7a85f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12008213c456aecb6046944735107e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\848c4aa9cb0e3b63419e28ccae9f93e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\aa63645664f3ba1b2f2ef0a915edf9d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1698954fb11954105ab41f46b5e5e5fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dacf6c66ebb9af56ba19aad4eca5f37a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1c37e7a700f80c782bcbfe7061fd0f23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\81f1a03e29c375d1958c096eadd9e4b1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\79377cc63eabb6152383d0c55ffec169\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\79377cc63eabb6152383d0c55ffec169\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\e77a6a00c9a6ae34b3d9b204e4897a1f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\e77a6a00c9a6ae34b3d9b204e4897a1f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.gitpro.MainActivity
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\682c39a3f8693fb928b640d9dd27f433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\682c39a3f8693fb928b640d9dd27f433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\79377cc63eabb6152383d0c55ffec169\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\79377cc63eabb6152383d0c55ffec169\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ca4c9b28a05ed473c7b3ece5bc5211b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ca4c9b28a05ed473c7b3ece5bc5211b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dc00027dd7b7170a35bb47339695496f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dc00027dd7b7170a35bb47339695496f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1507c914f1e8387d0b6e35683a12d52d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1507c914f1e8387d0b6e35683a12d52d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b1c9f4759f77828539c76a00cd0bb136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b1c9f4759f77828539c76a00cd0bb136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\fe92197e006ae7b68c9d90913fea1b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\fe92197e006ae7b68c9d90913fea1b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c5d808d64c9711214e870e2c682f830b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c5d808d64c9711214e870e2c682f830b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12212e8cfe3c8b94bc883dca1ef7e553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12212e8cfe3c8b94bc883dca1ef7e553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ddcc2ccbef38004e36ffd913ef571fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ddcc2ccbef38004e36ffd913ef571fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\69066fd50b18cbf182c459aecf3bf527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\69066fd50b18cbf182c459aecf3bf527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\646edf21556aee7f32469bf66d805511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\646edf21556aee7f32469bf66d805511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\f88c34a4ef55193151d0b34fefa413be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\f88c34a4ef55193151d0b34fefa413be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b50b853697ebbeb64b82a5b6b478569d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\b50b853697ebbeb64b82a5b6b478569d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c240345b0f9753b5fa972d3c8d253a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\c240345b0f9753b5fa972d3c8d253a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\66193979f914483b48d9479e4b1146a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\e77a6a00c9a6ae34b3d9b204e4897a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\e77a6a00c9a6ae34b3d9b204e4897a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ec1f5f86f9375bdb897762e6e0063e4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ec1f5f86f9375bdb897762e6e0063e4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\a51fb5e60b205768fc357b8bfad745a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\a51fb5e60b205768fc357b8bfad745a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ab3b4da9a49f53e60704b1a6de7a85f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\ab3b4da9a49f53e60704b1a6de7a85f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12008213c456aecb6046944735107e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\12008213c456aecb6046944735107e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\848c4aa9cb0e3b63419e28ccae9f93e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\848c4aa9cb0e3b63419e28ccae9f93e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\aa63645664f3ba1b2f2ef0a915edf9d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\aa63645664f3ba1b2f2ef0a915edf9d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1698954fb11954105ab41f46b5e5e5fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1698954fb11954105ab41f46b5e5e5fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dacf6c66ebb9af56ba19aad4eca5f37a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\dacf6c66ebb9af56ba19aad4eca5f37a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1c37e7a700f80c782bcbfe7061fd0f23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\1c37e7a700f80c782bcbfe7061fd0f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\81f1a03e29c375d1958c096eadd9e4b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RUTHERFORD\.gradle\caches\transforms-2\files-2.1\81f1a03e29c375d1958c096eadd9e4b1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RUTHERFORD\AndroidStudioProjects\Gitpro\app\src\main\AndroidManifest.xml
